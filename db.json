@@ -1,0 +1,52 @@
+{
+  "clientes": [
+    {
+      "nombre": "Neto",
+      "empresa": "Neto, S.A. de C.V.",
+      "email": "correo@correo.com",
+      "telefono": "1234567890",
+      "notas": "Primer Registro",
+      "id": 1
+    },
+    {
+      "nombre": "Neto1",
+      "empresa": "Neto, S.A. de C.V.",
+      "email": "correo1@correo.com",
+      "telefono": "1234567890",
+      "notas": "Segundo Registro",
+      "id": 2
+    },
+    {
+      "nombre": "Neto2",
+      "empresa": "Neto, S.A. de C.V.",
+      "email": "correo2@correo.com",
+      "telefono": "1234567890",
+      "notas": "Tercer Registro",
+      "id": 3
+    },
+    {
+      "nombre": "Neto3",
+      "empresa": "Neto, S.A. de C.V.",
+      "email": "correo3@correo.com",
+      "telefono": "1234567890",
+      "notas": "Cuarto Registro",
+      "id": 4
+    },
+    {
+      "nombre": "Neto4",
+      "empresa": "Neto, S.A. de C.V.",
+      "email": "correo4@correo.com",
+      "telefono": "1234567890",
+      "notas": "Quinto Registro",
+      "id": 5
+    },
+    {
+      "nombre": "Neto5",
+      "empresa": "Neto, S.A. de C.V.",
+      "email": "correo5@correo.com",
+      "telefono": "1234567890",
+      "notas": "Sexto Registro",
+      "id": 6
+    }
+  ]
+}
